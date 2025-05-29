@@ -1,7 +1,11 @@
 📊 Supermarket Sales Dashboard — Power BI
-✅ Visão Geral
-Este projeto consiste na criação de um dashboard interativo e responsivo no Power BI utilizando o dataset: [[Supermarket Sales](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales)].
 
+## 📁 Dataset
+
+- **Fonte**:Dados publicados no kaggle: [[Supermarket Sales](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales)].
+- **Descrição**: O dataset contém informações sobre vendas de uma rede de supermercados localizado na China.
+
+✅ Visão Geral
 A proposta é gerar insights estratégicos para análise de faturamento, lucro, satisfação do cliente e desempenho operacional.
 
 ✅ Objetivos do Projeto
