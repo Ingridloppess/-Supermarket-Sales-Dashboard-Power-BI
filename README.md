@@ -68,3 +68,6 @@ Ingrid | Estudante de Ciência da Computação
 📧 Ingridloppess@gmail.com
 🔗 [https://www.linkedin.com/in/ingridloppess/]
 
+![image](https://github.com/user-attachments/assets/519d1140-53fa-4fd2-aeb7-7c23a84ffd9a)
+
+
