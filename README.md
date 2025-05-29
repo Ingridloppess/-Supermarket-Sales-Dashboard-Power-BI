@@ -2,13 +2,13 @@
 
 ## 📁 Dataset
 
-- **Fonte**:Dados publicados no kaggle: [[Supermarket Sales](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales)].
+- **Fonte**: Dados publicados no kaggle: [[Supermarket Sales](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales)].
 - **Descrição**: O dataset contém informações sobre vendas de uma rede de supermercados localizado na China.
 
-✅ Visão Geral
+##  📈 Visão Geral
 A proposta é gerar insights estratégicos para análise de faturamento, lucro, satisfação do cliente e desempenho operacional.
 
-✅ Objetivos do Projeto
+## 🚀 Objetivos do Projeto
 Consolidar a prática em modelagem de dados no Power BI.
 
 Criar indicadores-chave de desempenho (KPIs): Lucro Bruto, Avaliação do Consumidor.
@@ -17,7 +17,7 @@ Desenvolver análises comparativas entre filiais.
 
 Explorar segmentações e filtros dinâmicos.
 
-✅ Principais Recursos e Métricas
+## Principais Recursos e Métricas
 Lucro Bruto.
 
 Média de Avaliação do Consumidor.
@@ -34,14 +34,14 @@ Lucro por Mês.
 
 Filtros interativos: Mês, Produto, Cidade, Filial, entre outros.
 
-✅ Ferramentas Utilizadas
+## 🛠️ Ferramentas Utilizadas
 Power BI Desktop: ETL, modelagem e visualização.
 
 DAX: Criação de medidas.
 
 Kaggle Dataset: Supermarket Sales.
 
-✅ Como Executar
+## Como Executar
 Faça o download do dataset no Kaggle.
 
 Importe o arquivo .csv para o Power BI.
@@ -52,7 +52,7 @@ Ajuste as segmentações e filtros conforme o cenário.
 
 Visualize o dashboard com interatividade total.
 
-✅ Insights Estratégicos
+## 📊 Insights Estratégicos
 Identificação de produtos com maior faturamento.
 
 Avaliação da satisfação média dos consumidores.
@@ -61,9 +61,9 @@ Comparação do desempenho por cidade e filial.
 
 Análise da preferência de métodos de pagamento.
 
-✅ Screenshot do Dashboard
+## Screenshot do Dashboard
 
-✅ Contato
+##  📩 Contato
 Ingrid | Estudante de Ciência da Computação
 📧 Ingridloppess@gmail.com
 🔗 [https://www.linkedin.com/in/ingridloppess/]
